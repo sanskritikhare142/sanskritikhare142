@@ -20,6 +20,12 @@ Always eager to learn something new and follow my passion for self-growth!**
  * <img align="left" alt="OpenCV" width="20px" src="https://banner2.cleanpng.com/20180603/bch/kisspng-opencv-computer-vision-library-c-open-now-5b1390e4692f39.9683021615280089324309.jpg" /> OpenCV
  * <img align="left" alt="SQL" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-12-556000.png" /> SQL
  * <img align="left" alt="Git" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/social-226-96741.png" /> Git
+ * Javascript
+ * Typescript
+ * Node
+ * Express
+ * MongoDB
+ * NextJS
  
  
  **Feel Free to connect!**
