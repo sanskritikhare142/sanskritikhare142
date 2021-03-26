@@ -22,10 +22,11 @@ Always eager to learn something new and follow my passion for self-growth!**
  * <img align="left" alt="Git" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/social-226-96741.png" /> Git
  * Javascript
  * Typescript
- * Node
+ * NodeJS
  * Express
  * MongoDB
  * NextJS
+ * ReactJS
  
  
  **Feel Free to connect!**
