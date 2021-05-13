@@ -11,7 +11,11 @@ Always eager to learn something new and follow my passion for self-growth!**
 </table>
 
  #### Stats:
- ![Sanskriti's Github Stats](https://github-readme-stats.vercel.app/api?username=sanskritikhare142&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskritikhare142&theme=radical)](https://github.com/sanskritikhare142/github-readme-stats)
+ <p align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanskritikhare142&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=sanskritikhare142&show_icons=true&theme=dark" alt="Stats" />
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritikhare142&theme=dark" alt="Stats" />
+</p>
 
 #### Skills:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
