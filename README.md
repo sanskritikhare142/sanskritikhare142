@@ -31,6 +31,8 @@ Always eager to learn something new and follow my passion for self-growth!**
  * MongoDB
  * NextJS
  * ReactJS
+ * Flask
+ * Firebase
  
  
  **Feel Free to connect!**
